@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<form action="verifica_usuario.php" method="POST" id="formLogin">
+<form action="Connect.php" method="POST" id="formLogin">
 
             <label>User</label><br/>
             <input name="user" type="text" id="user" /><br/>
